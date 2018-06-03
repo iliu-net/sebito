@@ -25,9 +25,9 @@ title: Delft International 2013
 ...
 ---
 
-[youtube id="Tc4TsBzyGkw"]
-
 Meschien kennen je ouders delft.
 Want in heb ik een wedstrijd in delft gedaan.
 Een wedstrjd is best moelijk .
 Maar wel leuk.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4TsBzyGkw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

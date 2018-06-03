@@ -22,7 +22,6 @@ post_type: post
 post_mime_type: ""
 comment_count: "0"
 title: Ronde trap
-...
 ---
 
 De ronde trap is een mix tussen side kick en een voorwaartse trap.
@@ -36,4 +35,4 @@ Schop je.
 Doe dat 10 keer.
 Dit is een van de meest effectieve aanvallen in tkd.
 
-[youtube id="zCKZ8sn46aM"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCKZ8sn46aM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
