@@ -1,0 +1,13 @@
+encoding: UTF-8
+
+remote_theme: jekyll/minima
+
+title: Sebito's Blogs
+description: Sebito's personal blog
+
+header_pages:
+  - about.md
+
+show_downloads: false
+
+
