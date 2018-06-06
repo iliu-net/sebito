@@ -22,7 +22,6 @@ post_type: page
 post_mime_type: ""
 comment_count: "1"
 title: About
-...
 ---
 
 Hoi ik ben sebito.
@@ -31,4 +30,5 @@ goed he.
 Nou dat was het dan.
 tot de voglende keer
 
-<a href="http://iliu.net/" target="_blank">Klik hier voor de website van mijn familie.</a>
+[Klik hier voor de website van mijn familie.](http://iliu.net/)
+
