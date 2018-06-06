@@ -25,7 +25,7 @@ title: Nieuwe regels over plastic
 ...
 ---
 
-Vanaf èèn januari mogen geen gratis zakjes gekregen worden.
+Vanaf &eacute;&eacute;n januari mogen geen gratis zakjes gekregen worden.
 Dat heeft de Europese unie besloten om vervuiling van het milieu tegen te gaan.
 De winkels mogen zelf weten hoeveel geld ze gaan vragen.
 Er wordt verwacht tussen tien cent en twintig cent.

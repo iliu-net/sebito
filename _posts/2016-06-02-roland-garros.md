@@ -25,7 +25,11 @@ title: Roland Garros
 ...
 ---
 
-<blockquote>Er is nu een van beroemdste tennis toernooi zorg genaamd Grand slam. Een Grand slam bestaat uit vier toernooien in een jaar nu is de Roland Garros aan de gang dat is he eerste toernooi oftewel Grand slam van het jaar. De andere drie toernooien zijn Wimbledon Australian open in in Australië dan is er nog de US open in de Verenigde Staten, en nu is de Roland Garros aan de gang en die is in Frankrijk. Als je een van zo een Grand slam win je een grote beker en een heleboel geld. Kiki Bertens van Nederland gaat nu tegen Serena Williams de nummer één van de wereld.</blockquote>
+<blockquote>Er is nu een van beroemdste tennis toernooi zorg genaamd Grand slam. Een Grand slam bestaat uit vier toernooien in
+een jaar nu is de Roland Garros aan de gang dat is he eerste toernooi oftewel Grand slam van het jaar. De andere drie toernooien
+zijn Wimbledon Australian open in in Australi&euml; dan is er nog de US open in de Verenigde Staten, en nu is de Roland Garros aan de
+gang en die is in Frankrijk. Als je een van zo een Grand slam win je een grote beker en een heleboel geld. Kiki Bertens
+van Nederland gaat nu tegen Serena Williams de nummer &eacute;&eacute;n van de wereld.</blockquote>
 
 ![wpid-wp-1464896619770.jpg]({{ site.url }}/img/2016/wpid-wp-1464896619770.jpg)
 
