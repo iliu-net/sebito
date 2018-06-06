@@ -25,7 +25,7 @@ title: minecraft
 ...
 ---
 
-minecraft is een van de  beroemste spellen.
+minecraft is een van de  beroemste spellen.
 het zit vol monsters zoals ,crepers ,zombies en skaleten,noem maar op.
 dan moet je natuurlijk ook difficulty aan zetten.
 als je hem uit zet ,

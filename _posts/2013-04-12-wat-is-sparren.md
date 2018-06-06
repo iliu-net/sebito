@@ -27,4 +27,4 @@ title: Wat is sparren?
 
 Sparren is en soort van vechten.
 Maar je moet een helm op en handschoenen en een bitje
-En ook nog voeten bescherming.  
+En ook nog voeten bescherming.  

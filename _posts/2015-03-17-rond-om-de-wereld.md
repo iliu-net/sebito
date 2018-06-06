@@ -25,10 +25,10 @@ title: rond om de wereld
 ...
 ---
 
-1.  hou nu de bal 4 t/m 6 keer hoog.
+1.  hou nu de bal 4 t/m 6 keer hoog.
 
-2.  op de laatste keer gaat de bal niet te hoog maar ook niet te laag.
+2.  op de laatste keer gaat de bal niet te hoog maar ook niet te laag.
 
-3.  doe nu een er been over de bal heen.
+3.  doe nu een er been over de bal heen.
 
 4.vang de bal weer op (zonder dat de bal de grond raakt) ga door met hoog houden.
