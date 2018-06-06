@@ -25,7 +25,12 @@ title: Team Jireugi
 ...
 ---
 
-Ik zit op taekwondo zoals jullie weten en mijn club heet team Jireugi het is een kleine school maar we hebben wel veel bekers gewonnen ik heb er 2 ééntje met 3e plaats en de andere met 1e eerste plaats. Die kun je winnen tijdens wedstrijden het is wel moeilijke ik heb ze allemaal met sparren gewonnen (vechten met handschoenen en schoenen en een helm) ik heb een keer meegedaan met en hoogte trap (dat is een plankje die hell hoog staat waar je tegenaan moet schoppen) daarmee heb ik niet gewonnen ,en met tuls (bepaalde stappen die je moet leren om een nieuwe band te krijgen) heb ik ook niet mee gewonnen ,ik ben wel tussen n de 3e en de 4e plaats gekomen maar heb verloren. Binnenkort komt er nog een wedstrijd op 4 maart.
+Ik zit op taekwondo zoals jullie weten en mijn club heet team Jireugi het is een kleine school maar we hebben wel veel bekers
+gewonnen ik heb er 2 &eacute;&eacute;ntje met 3e plaats en de andere met 1e eerste plaats. Die kun je winnen tijdens wedstrijden het is wel
+moeilijke ik heb ze allemaal met sparren gewonnen (vechten met handschoenen en schoenen en een helm) ik heb een keer meegedaan
+met en hoogte trap (dat is een plankje die hell hoog staat waar je tegenaan moet schoppen) daarmee heb ik niet gewonnen ,en et
+tuls (bepaalde stappen die je moet leren om een nieuwe band te krijgen) heb ik ook niet mee gewonnen ,ik ben wel tussen n de 3e
+en de 4e plaats gekomen maar heb verloren. Binnenkort komt er nog een wedstrijd op 4 maart.
 
 ![tkd-icon-31t8l238bq5h2se58zp6gw.png]({{ site.url }}/img/2016/tkd-icon-31t8l238bq5h2se58zp6gw.png)
 
